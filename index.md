@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Final Project [Outliers]
 
 You can use the [editor on GitHub](https://github.com/TaixiL/STOR-565-FInal-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
