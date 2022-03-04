@@ -1,8 +1,3 @@
----
-layout: default
-title: About
----
-
 ## Biweekly Report 1
 
 <html>
