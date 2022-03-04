@@ -1,5 +1,4 @@
 ## Final Project [Outliers]
-<!DOCTYPE html>
 <html>
     <head>
     <style>
