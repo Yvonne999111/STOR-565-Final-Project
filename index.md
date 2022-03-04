@@ -1,6 +1,7 @@
 ## Final Project [Outliers]
 <!DOCTYPE html>
 <html>
+    <head>
     <style>
     .button {
       border: none;
@@ -17,7 +18,8 @@
     .button1 {background-color: #4CAF50;} /* Green */
     .button2 {background-color: #008CBA;} /* Blue */
     </style>
-    
+    </head>
+        
     <body>
         <object data="https://taixil.github.io/STOR-565-Final-Project/Biweekly_Report_Template.pdf" type="application/pdf" width="1200px" height="1200px">
         </object>
