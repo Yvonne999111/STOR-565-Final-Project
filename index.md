@@ -71,13 +71,14 @@
         .teamName {
           padding: 12px 16px 12px 32px;
           text-decoration: none;
-          font-size: 20px;
+          font-size: 30px;
           color: white;
           display: block;
           border: none;
           background: none;
           width: 100%;
           text-align: middle;  
+          font-weight: bold;
         }
 
         /* Some media queries for responsiveness */
