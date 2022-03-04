@@ -1,5 +1,5 @@
 ## STOR 565 Final Project
-Team [Outliers]
+#### Team [Outliers]
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1">
