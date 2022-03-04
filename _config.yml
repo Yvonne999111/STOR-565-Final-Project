@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 
 navigation: 
   - {file: "index.html", title: "Home", icon: "Home"}
+  - {file: "biweekly-report1.html", title: "Report1", icon: "Report1"}
