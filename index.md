@@ -76,9 +76,8 @@
     </div>
 
     <h1>Home</h1>
-    <h2>Animated Sidenav Example</h2>
     <p>Click on the element below to open the side navigation menu.</p>
-    <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+    <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span><br>
 
     <script>
     function openNav() {
