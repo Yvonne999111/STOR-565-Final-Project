@@ -69,10 +69,10 @@
      
     <div id="mySidenav" class="sidenav">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-      <a href="#">Home</a>
-      <a href="#">Biweekly Report</a>
-      <a href="#">Project Proposal</a>
-      <a href="#">Final Report</a>
+      <a href="https://taixil.github.io/STOR-565-Final-Project/">Home</a>
+      <a href="https://taixil.github.io/STOR-565-Final-Project/biweekly-report.html">Biweekly Report</a>
+      <a href="https://taixil.github.io/STOR-565-Final-Project/project-proposal.html">Project Proposal</a>
+      <a href="https://taixil.github.io/STOR-565-Final-Project/final-repot.html">Final Report</a>
     </div>
 
     <h1>Home</h1>
