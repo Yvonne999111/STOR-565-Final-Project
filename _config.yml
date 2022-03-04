@@ -1,5 +1,1 @@
 theme: jekyll-theme-cayman
-
-navigation: 
-  - {file: "index.md", title: "Home", icon: "Home"}
-  - {file: "biweekly-report1.md", title: "Report1", icon: "Report1"}
