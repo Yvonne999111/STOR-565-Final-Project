@@ -71,7 +71,20 @@ layout: default
           float: right;
           padding-right: 8px;
         }
-
+        
+        .teamName {
+          padding: 12px 16px 12px 32px;
+          text-decoration: none;
+          font-size: 30px;
+          color: white;
+          display: block;
+          border: none;
+          background: none;
+          width: 100%;
+          text-align: middle;  
+          font-weight: bold;
+        }
+                
         /* Some media queries for responsiveness */
         @media screen and (max-height: 450px) {
           .sidenav {padding-top: 15px;}
@@ -83,6 +96,7 @@ layout: default
     <body>
         
           <div class="sidenav">
+          <p class="teamName">Outliers</p>
           <a href="https://taixil.github.io/STOR-565-Final-Project/">Home</a>
           <button class="dropdown-btn">Biweekly Reports 
             <i class="fa fa-caret-down"></i>
